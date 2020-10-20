@@ -536,3 +536,4 @@ payload:
   - DOMAIN-SUFFIX,yimg.com
   - DOMAIN,api.steampowered.com
   - DOMAIN,store.steampowered.com
+  - DOMAIN,rsshub.app
